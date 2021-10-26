@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\bin\Debug\net5.0\formatting.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\bin\Debug\net5.0\formatting.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\bin\Debug\net5.0\formatting.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\bin\Debug\net5.0\formatting.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\bin\Debug\net5.0\formatting.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\bin\Debug\net5.0\ref\formatting.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\bin\Debug\net5.0\formatting.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\formatting.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\formatting.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\formatting.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\formatting.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\formatting.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\ref\formatting.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\formatting.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\formatting\obj\Debug\net5.0\formatting.genruntimeconfig.cache

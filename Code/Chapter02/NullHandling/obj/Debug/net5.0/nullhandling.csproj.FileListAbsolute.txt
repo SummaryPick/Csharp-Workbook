@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\bin\Debug\net5.0\nullhandling.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\bin\Debug\net5.0\nullhandling.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\bin\Debug\net5.0\nullhandling.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\bin\Debug\net5.0\nullhandling.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\bin\Debug\net5.0\nullhandling.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\bin\Debug\net5.0\ref\nullhandling.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\bin\Debug\net5.0\nullhandling.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\nullhandling.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\nullhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\nullhandling.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\nullhandling.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\nullhandling.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\nullhandling.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\ref\nullhandling.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\nullhandling.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\nullhandling\obj\Debug\net5.0\nullhandling.genruntimeconfig.cache

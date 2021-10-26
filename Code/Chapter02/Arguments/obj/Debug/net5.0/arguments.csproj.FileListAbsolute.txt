@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\bin\Debug\net5.0\arguments.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\bin\Debug\net5.0\arguments.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\bin\Debug\net5.0\arguments.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\bin\Debug\net5.0\arguments.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\bin\Debug\net5.0\arguments.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\bin\Debug\net5.0\ref\arguments.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\bin\Debug\net5.0\arguments.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\arguments.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\arguments.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\arguments.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\arguments.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\arguments.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\ref\arguments.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\arguments.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\arguments\obj\Debug\net5.0\arguments.genruntimeconfig.cache

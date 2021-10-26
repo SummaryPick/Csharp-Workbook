@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\exercise.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\exercise.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\exercise.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\bin\Debug\net5.0\exercise.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\bin\Debug\net5.0\exercise.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\bin\Debug\net5.0\exercise.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\bin\Debug\net5.0\exercise.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\bin\Debug\net5.0\exercise.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\bin\Debug\net5.0\ref\exercise.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\bin\Debug\net5.0\exercise.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\exercise.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\ref\exercise.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\exercise.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter02\exercise\obj\Debug\net5.0\exercise.genruntimeconfig.cache
