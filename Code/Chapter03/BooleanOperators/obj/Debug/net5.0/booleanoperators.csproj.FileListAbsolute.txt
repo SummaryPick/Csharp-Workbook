@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\bin\Debug\net5.0\booleanoperators.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\bin\Debug\net5.0\booleanoperators.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\bin\Debug\net5.0\booleanoperators.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\bin\Debug\net5.0\booleanoperators.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\bin\Debug\net5.0\booleanoperators.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\bin\Debug\net5.0\ref\booleanoperators.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\bin\Debug\net5.0\booleanoperators.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\booleanoperators.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\booleanoperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\booleanoperators.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\booleanoperators.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\booleanoperators.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\booleanoperators.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\ref\booleanoperators.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\booleanoperators.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\booleanoperators\obj\Debug\net5.0\booleanoperators.genruntimeconfig.cache
