@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\bin\Debug\net5.0\bitwiseandshiftoperators.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\bin\Debug\net5.0\bitwiseandshiftoperators.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\bin\Debug\net5.0\bitwiseandshiftoperators.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\bin\Debug\net5.0\bitwiseandshiftoperators.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\bin\Debug\net5.0\bitwiseandshiftoperators.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\bin\Debug\net5.0\ref\bitwiseandshiftoperators.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\bin\Debug\net5.0\bitwiseandshiftoperators.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\bitwiseandshiftoperators.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\bitwiseandshiftoperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\bitwiseandshiftoperators.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\bitwiseandshiftoperators.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\bitwiseandshiftoperators.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\bitwiseandshiftoperators.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\ref\bitwiseandshiftoperators.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\bitwiseandshiftoperators.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\bitwiseandshiftoperators\obj\Debug\net5.0\bitwiseandshiftoperators.genruntimeconfig.cache

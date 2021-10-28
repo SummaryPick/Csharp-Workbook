@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\bin\Debug\net5.0\selectionstatements.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\bin\Debug\net5.0\selectionstatements.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\bin\Debug\net5.0\selectionstatements.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\bin\Debug\net5.0\selectionstatements.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\bin\Debug\net5.0\selectionstatements.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\bin\Debug\net5.0\ref\selectionstatements.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\bin\Debug\net5.0\selectionstatements.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\selectionstatements.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\selectionstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\selectionstatements.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\selectionstatements.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\selectionstatements.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\selectionstatements.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\ref\selectionstatements.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\selectionstatements.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\selectionstatements\obj\Debug\net5.0\selectionstatements.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\bin\Debug\net5.0\iterationstatements.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\bin\Debug\net5.0\iterationstatements.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\bin\Debug\net5.0\iterationstatements.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\bin\Debug\net5.0\iterationstatements.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\bin\Debug\net5.0\iterationstatements.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\bin\Debug\net5.0\ref\iterationstatements.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\bin\Debug\net5.0\iterationstatements.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\iterationstatements.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\iterationstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\iterationstatements.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\iterationstatements.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\iterationstatements.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\iterationstatements.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\ref\iterationstatements.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\iterationstatements.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\iterationstatements\obj\Debug\net5.0\iterationstatements.genruntimeconfig.cache
