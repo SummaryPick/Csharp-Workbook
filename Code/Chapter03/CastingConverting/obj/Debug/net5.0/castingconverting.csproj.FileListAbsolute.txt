@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\castingconverting.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\castingconverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\castingconverting.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\castingconverting.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\castingconverting.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\bin\Debug\net5.0\castingconverting.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\bin\Debug\net5.0\castingconverting.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\bin\Debug\net5.0\castingconverting.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\bin\Debug\net5.0\castingconverting.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\bin\Debug\net5.0\castingconverting.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\bin\Debug\net5.0\ref\castingconverting.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\bin\Debug\net5.0\castingconverting.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\castingconverting.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\ref\castingconverting.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\castingconverting.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\Chapter03\castingconverting\obj\Debug\net5.0\castingconverting.genruntimeconfig.cache
