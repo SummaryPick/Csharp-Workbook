@@ -85,7 +85,7 @@ namespace castingconverting
 
             //int count = int.Parse("abc"); Throws an expection because it's in the wrong format.
 
-            Write("How many eggs do you have? ");
+            Write("How many chickens do you have? ");
             int count;
             string input = ReadLine();
 
