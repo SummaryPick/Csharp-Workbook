@@ -1,0 +1,16 @@
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\checkingforoverflow.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\checkingforoverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\checkingforoverflow.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\checkingforoverflow.AssemblyInfo.cs
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\checkingforoverflow.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\bin\Debug\net5.0\checkingforoverflow.exe
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\bin\Debug\net5.0\checkingforoverflow.deps.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\bin\Debug\net5.0\checkingforoverflow.runtimeconfig.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\bin\Debug\net5.0\checkingforoverflow.runtimeconfig.dev.json
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\bin\Debug\net5.0\checkingforoverflow.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\bin\Debug\net5.0\ref\checkingforoverflow.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\bin\Debug\net5.0\checkingforoverflow.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\checkingforoverflow.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\ref\checkingforoverflow.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\checkingforoverflow.pdb
+C:\Users\Zacha\Documents\Csharp-Workbook\code\chapter03\checkingforoverflow\obj\Debug\net5.0\checkingforoverflow.genruntimeconfig.cache

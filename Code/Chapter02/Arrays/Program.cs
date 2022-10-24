@@ -6,13 +6,8 @@ namespace arrays
     {
         static void Main(string[] args)
         {
-            string[] names;
-            names = new string[4];
-
-            names[0] = "Zach";
-            names[1] = "Emily";
-            names[2] = "Isabelle";
-            names[3] = "McArthur";
+            int[] names;
+            names = new int[10];
 
             for(int i = 0; i < names.Length; i++){
                 Console.WriteLine(names[i]);
