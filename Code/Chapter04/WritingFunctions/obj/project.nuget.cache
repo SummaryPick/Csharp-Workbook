@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQG+PSqUb+oA8r2PqptJUzP+F6lu1XuT0fRBD8JG/4I30Nao3JFGYLDsmkiB6r9WrnKhVG8U7xbK2oG0ZEysWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zacha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
