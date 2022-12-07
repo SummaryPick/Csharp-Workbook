@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9DFAThX4oeZPpEDdxstY7W6HCRMpO0TK1pamtGYCcO4D1sJbnZ1EpzzmXKjJMbl1DEFSLiJxAAhLV1/LnvHeBg==",
+  "dgSpecHash": "KbOqdsys7fA5UO2aFQ9oDfg/38oOH4RUHIR39GrMk+JZnOgd9XTunadzFFwhI2HJbi/+iF7wK/TKb0OsUj7Lcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter01\\HelloCs\\HelloCs.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Zacha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

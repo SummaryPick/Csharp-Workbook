@@ -3,6 +3,7 @@ C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\bin\Debug\net5.0
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.runtimeconfig.json
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.runtimeconfig.dev.json
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\bin\Debug\net5.0\ref\HelloCs.dll
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\bin\Debug\net5.0\HelloCs.pdb
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.csproj.AssemblyReference.cache
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,4 +14,3 @@ C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\obj\Debug\net5.0
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\obj\Debug\net5.0\ref\HelloCs.dll
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.pdb
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\obj\Debug\net5.0\HelloCs.genruntimeconfig.cache
-C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter01\HelloCs\obj\Debug\net5.0\refint\HelloCs.dll

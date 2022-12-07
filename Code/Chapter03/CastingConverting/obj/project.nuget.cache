@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PSYjywq5k1ZISpZtnofVrp7jNFg5jeADLA+XbDUgmHuEpUa0Ty6U9pJ53ZTQHwHXjLfFV9zaDkMY6RSiXYflaw==",
+  "dgSpecHash": "0xwm7GZPqz+qjEr86rV3/8yW1bgeOMdxKNa4sFIob1JnclfhOSYWG6vYIbMGeCkgE6QvgKrt4vpsOicgDVpzEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\CastingConverting\\castingconverting.csproj",
+  "projectFilePath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\Chapter03\\castingconverting\\castingconverting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
