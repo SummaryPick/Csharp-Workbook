@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qVmoVNVGqON0s0UEsUZs7yfaxXodTNB8LkW4DCLgKE0JVqvNovaC8TF4ePQJC8WKQbAQ8IRpzc9g7FGUwbme3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\chapter03\\handlingexceptions\\handlingexceptions.csproj",
+=======
+  "dgSpecHash": "0caQvFVGrOlznK+Q9rjmclSGzr1JHftR6e7NicIKE84932SrqrH9syzaDgYY5rzKYKeZJxWwweoc/dnmv8tRPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\HandlingExceptions\\HandlingExceptions.csproj",
+>>>>>>> parent of 99c5390 (Revert "Chapter 4 and start of 5")
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\chapter03\\handlingexceptions\\handlingexceptions.csproj",
       "projectName": "handlingexceptions",
       "projectPath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\chapter03\\handlingexceptions\\handlingexceptions.csproj",
       "packagesPath": "C:\\Users\\Zacha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\chapter03\\handlingexceptions\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\HandlingExceptions\\HandlingExceptions.csproj",
+      "projectName": "HandlingExceptions",
+      "projectPath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\HandlingExceptions\\HandlingExceptions.csproj",
+      "packagesPath": "C:\\Users\\Zacha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\HandlingExceptions\\obj\\",
+>>>>>>> parent of 99c5390 (Revert "Chapter 4 and start of 5")
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zacha\\AppData\\Roaming\\NuGet\\NuGet.Config"

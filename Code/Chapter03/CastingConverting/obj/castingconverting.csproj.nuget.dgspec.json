@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\Chapter03\\castingconverting\\castingconverting.csproj": {}
+    "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\CastingConverting\\castingconverting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\Chapter03\\castingconverting\\castingconverting.csproj": {
+    "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\CastingConverting\\castingconverting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\Chapter03\\castingconverting\\castingconverting.csproj",
+        "projectUniqueName": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\CastingConverting\\castingconverting.csproj",
         "projectName": "castingconverting",
-        "projectPath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\Chapter03\\castingconverting\\castingconverting.csproj",
+        "projectPath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\CastingConverting\\castingconverting.csproj",
         "packagesPath": "C:\\Users\\Zacha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\code\\Chapter03\\castingconverting\\obj\\",
+        "outputPath": "C:\\Users\\Zacha\\Documents\\Csharp-Workbook\\Code\\Chapter03\\CastingConverting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zacha\\AppData\\Roaming\\NuGet\\NuGet.Config"
