@@ -1,33 +1,35 @@
 ﻿using System;
+using static System.Console;
 
-namespace handlingexceptions
+namespace HandlingExceptions
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Before parsing");
-            Console.Write("What is your age?");
-            string input = Console.ReadLine();
+            WriteLine("Before parsing");
+            Write("What is your age?");
+            string input = ReadLine();
+
 
             try
             {
                 int age = int.Parse(input);
-                Console.WriteLine($"You are {age} years old.");
+                WriteLine($"You are {age} years old.");
             }
-            catch (FormatException)
+            catch(FormatException)
             {
-                Console.WriteLine("The age you entered is not a valid number format.");
+                WriteLine("The age you entered is not a valid format.");
             }
-            catch (OverflowException)
+            catch(OverflowException)
             {
-                Console.WriteLine("Your age is a valid number but is either too big or too small.");
+                WriteLine("Although your input was a valid number. The number you entered was too large or too small for integer.");
             }
-            catch (Exception ex)
+            catch(Exception e)
             {
-                Console.WriteLine($"{ex.GetType()} says {ex.Message}");
+                WriteLine($"{e.GetType()} says {e.Message}");
             }
-            Console.WriteLine("After Parsing.");
+            WriteLine("After parsing.");
         }
     }
 }
