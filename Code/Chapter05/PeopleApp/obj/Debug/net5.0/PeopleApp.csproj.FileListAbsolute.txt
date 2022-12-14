@@ -33,3 +33,5 @@ C:\Users\Zacha\Documents\Csharp-Workbook\Code\chapter05\PeopleApp\obj\Debug\net5
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\chapter05\PeopleApp\obj\Debug\net5.0\ref\PeopleApp.dll
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.pdb
 C:\Users\Zacha\Documents\Csharp-Workbook\Code\chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.genruntimeconfig.cache
+C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.dll
+C:\Users\Zacha\Documents\Csharp-Workbook\Code\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.pdb

@@ -149,6 +149,62 @@ namespace PeopleApp
             WriteLine($"Sam's second child is {sam.Children[1].Name}");
             WriteLine($"Sam's first child is {sam[0].Name}");
             WriteLine($"Sam's second child is {sam[1].Name}");
+
+
+            object[] passengers = {
+                new FirstClassPassenger { AirMiles = 1_419},
+                new FirstClassPassenger { AirMiles = 16_562},
+                new BusinessClassPassenger(),
+                new CoachClassPassenger { CarryOnKG = 25.7 },
+                new CoachClassPassenger { CarryOnKG = 0}
+            };
+
+            foreach (object passenger in passengers)
+            {
+                decimal flightCost = passenger switch 
+                {
+                    // FirstClassPassenger p when p.AirMiles > 35000 => 1500M,
+                    // FirstClassPassenger p when p.AirMiles > 15000 => 1750M,
+                    // FirstClassPassenger _                         => 2000M,
+                    FirstClassPassenger p => p.AirMiles switch
+                    {
+                        > 35000 => 1500M,
+                        > 15000 => 1750M,
+                        _       => 2000M
+                    },                  
+                    BusinessClassPassenger _                      => 1000M,
+                    CoachClassPassenger p when p.CarryOnKG < 10.0 => 500M,
+                    CoachClassPassenger _                         => 650M,
+                    _                                             => 800M
+
+                };
+
+                WriteLine($"Flight costs {flightCost:C} for {passenger}");
+            }
+
+            var jeff = new ImmutablePerson
+            {
+                FirstName = "Jeff",
+                LastName = "Winger"
+            };
+
+            //jeff.FirstName = "Geoff";  Causes an error because of init;
+
+            var car = new ImmutableVehicle
+            {
+                Brand = "Mazda",
+                Color = "Soul Red Crystal Metallic",
+                Wheels = 4
+            };
+
+            var repaintedCar = car with { Color = "Polymetal Grey Metallic" };
+
+            WriteLine("Original color was {0}, new color is {1}.",
+            arg0: car.Color, arg1: repaintedCar.Color);
+
+            var oscar = new ImmutableAnimal("Oscar", "Labrador");
+            var (who, what) = oscar;
+            WriteLine($"{who}, {what}");
         }
     }
 }
